@@ -5,7 +5,8 @@
 
 ### Contact:
 
+- :skull: [Webpage](https://averyramirez.github.io/)
 - :baby_chick: [Twitter](http://twitter.com/averyramirez_)
 - :notebook: [Dev.to](http://dev.to/averyramirez)
-- :skull: [Webpage](https://averyramirez.github.io/)
+
 
