@@ -1,7 +1,6 @@
 ## Hey there, I'm Avery! :wave: 
 
-### About me:
-:sun_with_face: I'm a web developer located in San Diego, California!
+:sun_with_face: A JavaScript software engineer located in San Diego, California!
 
 ### Specialties and interests:
 - JavaScript
