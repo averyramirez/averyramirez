@@ -2,7 +2,7 @@
 
 :sun_with_face: A JavaScript software engineer located in San Diego, California!
 
-### Specialties and interests:
+### Languages and Frameworks:
 - JavaScript
 - ReactJS
 - HTML/CSS
